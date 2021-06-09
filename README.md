@@ -32,12 +32,15 @@ https://github.com/evarahma61/Aremaa-Capstone-Bangkit.git
 
 
 
-
-A Word on Branches
-m-Posyandu is, like any Github project, a constant work-in-progress. This means that you will, if you look, notice there are other branches. We recommend that all developers who are new to Applicasa and just getting their feet wet with the SDK and frameworks stick to the stable branch only. The master branch is our main development branch, and all other branches are feature-specific branches that are currently under development and will be merged into stable when they are tested and ready. You may check out these branches at any time if you want to see other feature work and examples of how to implement those in your game (where applicable), but be aware that we don't support any branches other than stable at this time (for issues and whatnot).
-
-
 ### Build Configuration
 Machine Learning : Built with Python programming language using Support Vector Machine Algorithm
 
+
+### Creators : 
+1. M0040213  Arvy Muhammad Reyhan 
+2. M1201536  Eva Rahma Indriyani 
+3. C1201540  Muhammad Yusril Aldean 
+4. C0121166  Amalia Ristantya 
+5. A1201539  Abdul Hafiidh Priyanto
+6. A1201542  Rolanita Scenic Faravati 
 
