@@ -20,13 +20,13 @@ Posyandu is one of foundation that concern on baby and toddlers growth and nutri
 
 ### Installation
 1. Clone the repo
-https://github.com/evarahma61/Aremaa-Capstone-Bangkit.git
+https://github.com/evarahma61/Aremaa-Capstone.git
 
 
 ### Resources
 
-* [Notebooks](https://github.com/evarahma61/Aremaa-Capstone-Bangkit/blob/Machine-Learning/SVM.ipynb)
-* [Datasets](https://github.com/evarahma61/Aremaa-Capstone-Bangkit/blob/Machine-Learning/FINAL%20DATASET.csv)
+* [Notebooks](https://github.com/evarahma61/Aremaa-Capstone/blob/Machine-Learning/SVM.ipynb)
+* [Datasets](https://github.com/evarahma61/Aremaa-Capstone/blob/Machine-Learning/FINAL%20DATASET.csv)
 * [Models Deployed]()
 * [Android Repository](https://github.com/abdulhp/m-Posyandu)
 
