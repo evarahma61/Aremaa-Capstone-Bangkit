@@ -25,11 +25,11 @@ https://github.com/evarahma61/Aremaa-Capstone-Bangkit.git
 
 ### Resources
 
-1. Notebooks
-2. Datasets
-3. Models
-4. Deployed Android
-5. Android Repository : 
+* [Notebooks](https://github.com/evarahma61/Aremaa-Capstone-Bangkit/blob/Machine-Learning/SVM.ipynb)
+* [Datasets](https://github.com/evarahma61/Aremaa-Capstone-Bangkit/blob/Machine-Learning/FINAL%20DATASET.csv)
+* [Models Deployed]()
+* [Android Repository](https://github.com/abdulhp/m-Posyandu)
+
 
 
 
