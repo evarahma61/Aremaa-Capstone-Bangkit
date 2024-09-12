@@ -27,7 +27,7 @@ https://github.com/evarahma61/Aremaa-Capstone.git
 
 * [Notebooks](https://github.com/evarahma61/Aremaa-Capstone/blob/Machine-Learning/SVM.ipynb)
 * [Datasets](https://github.com/evarahma61/Aremaa-Capstone/blob/Machine-Learning/FINAL%20DATASET.csv)
-* [Models Deployed]()
+* [Models Deployed](https://github.com/evarahma61/Aremaa-Capstone/tree/Cloud-Computing)
 * [Android Repository](https://github.com/abdulhp/m-Posyandu)
 
 
